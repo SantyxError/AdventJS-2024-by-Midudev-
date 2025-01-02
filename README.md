@@ -1,8 +1,17 @@
-# React + Vite
+AdventJS es una página web de retos de programación que ofrece una experiencia única y desafiante para los amantes del código.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Inspirada en el tradicional calendario de adviento, en AdventJS cada día del mes de diciembre se revela un nuevo reto de programación en JavaScript o TypeScript.
 
-Currently, two official plugins are available:
+AdventJS está disponible en inglés y español y es totalmente gratis de usar.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Los retos van desde simples ejercicios básicos hasta desafíos más avanzados que ponen a prueba tus habilidades y te permiten mejorar como programador.
+
+Cada reto de AdventJS es valorado en base a su complejidad, buenas prácticas y mantenibilidad. De esta manera, puedes medir tu progreso y competir contra otros programadores para ver quién consigue la mejor puntuación en cada reto.
+
+Además, puedes compartir tus soluciones con la comunidad y ver cómo otros han resuelto los retos.
+
+Si quieres mejorar tus habilidades en JavaScript y TypeScript de manera divertida y desafiante, AdventJS es el lugar perfecto para ti.
+
+¡Entra hoy mismo y empieza tu aventura hacia la excelencia en la programación! ¡No te pierdas esta oportunidad única de mejorar tus habilidades y divertirte al mismo tiempo!
+
+https://adventjs.dev/es
